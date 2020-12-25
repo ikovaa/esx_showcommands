@@ -18,6 +18,6 @@ Orginally made by Calibrateds remaked by ikova
 
 # Installation
 1) Add `start esx_showcommands` to your server.cfg
-2) Drag it into your resources
-3) Configure the Config.lua
-4) Done
+2) Drag it into your resources folder
+3) Modify the Config.lua if you want
+4) Enjoy
