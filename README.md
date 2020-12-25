@@ -1,6 +1,11 @@
 # esx_showcommands
 Orginally made by Calibrateds remaked by ikova
 
+# Dependencies
+
+- [es_extended] v1 Final ( https://github.com/esx-framework/es_extended/releases/tag/v1-final )
+- [mythic_notify] Optional ( https://github.com/FlawwsX/mythic_notify )
+
 # Changes
 - Adapted the code to be simpler and easier to understand
 - No more __resource.lua
